@@ -13,7 +13,9 @@
 	import appstore from '$lib/assets/images/apple.png';
 </script>
 
-<nav class="p-5 pr-0 w-2/12 flex flex-col justify-between bg-ghost-white-500">
+<nav
+	class="p-8 pr-0 md:w-2/12 w-full min-w-max md:flex flex-shrink-0 hidden overflow-hidden flex-col justify-between overflow-y-auto bg-ghost-white-500"
+>
 	<div>
 		<h1 class="text-2xl font-semibold  mb-5">Educa<span class="text-indigo-500">me</span></h1>
 		<dl>

@@ -6,9 +6,9 @@
 </script>
 
 <dt class="sr-only">Overview of the system</dt>
-<dd class="{active ? 'border-r-4 border-indigo-500' : ''}  pr-5 mt-2">
+<dd class="{active ? 'border-r-4 border-indigo-500' : ''} w-full  min-w-max  pr-8 mt-2">
 	<span
-		class=" w-full flex bg-gradient-to-r {active
+		class=" w-full flex flex-shrink-0 bg-gradient-to-r {active
 			? 'from-red-300 to-pink-200 text-black'
 			: 'text-gray-400'} p-3    rounded-2xl justify-between items-center "
 	>
