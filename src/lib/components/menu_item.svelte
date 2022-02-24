@@ -6,7 +6,7 @@
 </script>
 
 <dt class="sr-only">Overview of the system</dt>
-<dd class="{active ? 'border-r-4 border-indigo-500' : ''}  pr-10 mb-2">
+<dd class="{active ? 'border-r-4 border-indigo-500' : ''}  pr-5 mt-2">
 	<span
 		class=" w-full flex bg-gradient-to-r {active
 			? 'from-red-300 to-pink-200 text-black'
