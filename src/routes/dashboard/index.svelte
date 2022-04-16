@@ -18,6 +18,21 @@
 </h1>
 
 <dl class="flex items-center justify-between flex-wrap">
-	<ClassCard />
-	<ClassCard />
+	<ClassCard
+		className="Interaction Engineering"
+		lecturer="Wade Warren"
+		classType="B"
+		creditHours={3}
+		studentCount={30}
+		duration={3}
+	/>
+
+	<ClassCard
+		className="Machine Learning"
+		lecturer="Eleanor Pena"
+		classType="B"
+		creditHours={4}
+		studentCount={32}
+		duration={4}
+	/>
 </dl>
